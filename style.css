@@ -1,0 +1,55 @@
+:root {
+  font-family: "Open Sans", serif;
+}
+
+
+#page {
+   margin: 30px 28px;
+   margin-top: 30px;
+   
+}
+
+.busan {
+  border-radius: 20px;
+  width: 900px;
+}
+
+.cabeca {
+  color: #E1624F;
+  text-transform: uppercase;
+}
+
+.descricao {
+  color: #333333;
+  font-style: italic;
+  margin: 25px;
+}
+
+.historia {
+  color: blue;
+  font-weight: bold;
+}
+
+.casais{
+  color: blue;
+  font-weight: bold;
+
+}
+
+.familias{
+  color: #E5245E;
+  font-weight: bold;
+}
+
+.orcamento{
+  color: #E95E10;
+  font-weight: bold;
+ 
+}
+
+footer{
+  justify-content: center;
+  font-weight: bold;
+  vertical-align: middle;
+  margin-left: 35%;
+}
